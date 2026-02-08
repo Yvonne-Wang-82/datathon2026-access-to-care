@@ -9,6 +9,7 @@ This repository contains my data analysis project for Datathon 2026 hosted by Du
 - `Cleaned_Access_to_Care_Dataset.csv` - The cleaned dataset with attibutes and rows of interest 
 - `Dashboard_by_gp.png` - Image of the dashboard showing percentage of individuals with limited healthcare access separated by demographic groups 
 - `Dashboard_by_gp.png` - Image of the dashboard showing trends of subgroups for Employment status between 2019 and 2024
+- `prompt.md` - The original prompt given by DubsTech
 
 ## Tools Used
 - Python (Jupyter Notebook)
